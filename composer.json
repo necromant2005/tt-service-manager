@@ -16,8 +16,10 @@
     ],
     "require": {
         "php": ">=7.4",
-        "truesocialmetrics/test-environment": "*",
         "laminas/laminas-mvc": "*"
+    },
+    "require-dev": {
+        "truesocialmetrics/test-environment": "*"
     },
     "autoload": {
         "psr-4": {
